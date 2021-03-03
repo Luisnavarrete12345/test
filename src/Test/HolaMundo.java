@@ -2,7 +2,7 @@
 Nombre: Luis Javier Navarrete Cruz
 Matricula: 2022235
  */
-package Test;
+package Test; 
 
 /**
  *
